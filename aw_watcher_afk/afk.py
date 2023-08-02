@@ -10,6 +10,7 @@ from aw_client import ActivityWatchClient
 
 from .config import load_config
 
+#TEST
 system = platform.system()
 
 if system == "Windows":
